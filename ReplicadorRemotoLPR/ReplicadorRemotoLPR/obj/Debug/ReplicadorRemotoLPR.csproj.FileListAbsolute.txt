@@ -1,0 +1,15 @@
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\bin\Debug\ReplicadorRemotoLPR.exe.config
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\obj\Debug\ReplicadorRemotoLPR.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\bin\Debug\ReplicadorRemotoLPR.exe
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\bin\Debug\ReplicadorRemotoLPR.pdb
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\bin\Debug\MongoDB.Bson.dll
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\bin\Debug\MongoDB.Driver.Core.dll
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\bin\Debug\MongoDB.Driver.dll
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\bin\Debug\Newtonsoft.Json.dll
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\bin\Debug\MongoDB.Bson.xml
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\bin\Debug\MongoDB.Driver.xml
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\bin\Debug\MongoDB.Driver.Core.xml
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\bin\Debug\Newtonsoft.Json.xml
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\obj\Debug\ReplicadorRemotoLPR.exe
+\\mac\home\documents\visual studio 2015\Projects\ReplicadorRemotoLPR\ReplicadorRemotoLPR\obj\Debug\ReplicadorRemotoLPR.pdb
